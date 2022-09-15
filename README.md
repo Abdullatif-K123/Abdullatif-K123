@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullatif Khayat</h1>
-<h3 align="center">A passionate Backend developer from Syria</h3>
+<h3 align="center">A passionate Fullstack developer from Syria</h3>
 
 - 🔭 I’m currently working on **Ceremony Web site that build using MERN Stack**
 
