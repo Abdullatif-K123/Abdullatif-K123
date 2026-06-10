@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&color=00C2FF&width=500&lines=%24+whoami" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&color=90EE90&width=500&lines=%24+whoami" />
 </p>
 
 <p align="left"><strong><samp>「</samp></strong></p>
@@ -21,11 +21,13 @@ passionate about clean code, automation, and modern web technologies.
 
 <br><br>
 
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&center=true&color=7A95C9&width=450&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+Something+New" />
+</p>
 
 <br><br>
 
-<b>~ Abdullatif Khayat ~</b> </samp>
+<p align="center"><b>~ Abdullatif Khayat ~</b></p> </samp>
 
 </p>
 
